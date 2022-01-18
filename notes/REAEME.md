@@ -1,3 +1,1 @@
-learning schedule
-
-12.28
+learning notes
